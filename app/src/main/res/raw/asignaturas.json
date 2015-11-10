@@ -1,0 +1,37 @@
+{
+  "Asignaturas": {
+    "Asignatura": [
+      {
+        "cod_asignatura": "01",
+        "nombre": "Conocimiento del medio",
+        "descripcion": "Bla bla bla",
+        "nota": "7.32"
+      },
+      {
+        "cod_asignatura": "02",
+        "nombre": "Matemáticas",
+        "descripcion": "Blo blo blo",
+        "nota": "7.90"
+      },
+      {
+        "cod_asignatura": "03",
+        "nombre": "Lengua y Literatura",
+        "descripcion": "Bli bli bli",
+        "nota": "5.32"
+      },
+      {
+        "cod_asignatura": "04",
+        "nombre": "Tecnología",
+        "descripcion": "Ble ble ble",
+        "nota": "9.21"
+      },
+      {
+        "cod_asignatura": "05",
+        "nombre": "Inglés",
+        "descripcion": "Blu blu blu",
+        "nota": "6.30"
+
+      }
+    ]
+  }
+}
